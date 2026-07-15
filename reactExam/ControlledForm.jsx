@@ -2,7 +2,8 @@ import React from 'react'
 import { useState } from 'react'
 
 const ControlledForm = () => {
-
+let name =" Jeevan Kumar";
+let rolre ="Process Developer";
     let [username, setUsername] = useState("");
     let [password, setPassword] = useState("");
 
